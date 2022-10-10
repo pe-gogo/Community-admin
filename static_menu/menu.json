@@ -56,4 +56,18 @@
       ]
     }
   ]
-}]
+},
+{
+	  "menu_id": "my_system",
+	  "name": "商品类别管理",
+	  "icon": "el-icon-s-tools",
+	  "sort": 1,
+	  "children": [{
+	      "menu_id": "my_system-user",
+	      "name": "菜单管理",
+	      "icon": "",
+	      "url": "/pages/cate/list"
+	    }
+	  ]
+	}
+]
